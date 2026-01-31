@@ -25,7 +25,7 @@ This project focuses on creating a secure **user signup API** with password hash
 
 ## ⚙️ Installation & Run
 ```bash
-git clone https://github.com/your-username/auth-service.git
-cd auth-service
+git clone https://github.com/your-username/LoginUser
+cd LoginUser
 npm install
 npm start
