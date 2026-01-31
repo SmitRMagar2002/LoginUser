@@ -1,20 +1,20 @@
-#  Auth Service (Node.js + MongoDB)
+# LoginUser
 
-A simple authentication service built with **Node.js**, **Express**, and **MongoDB**.  
-This project focuses on creating a secure **user signup API** with password hashing using **bcrypt**.
+A simple authentication backend built with **Node.js**, **Express**, and **MongoDB**.  
+This project demonstrates how to create a secure **user signup API** with password hashing using **bcrypt**.
 
 ---
 
 ## Features
-- User registration (signup)
+- User signup (registration)
 - Secure password hashing with bcrypt
 - MongoDB integration using Mongoose
 - Input validation and error handling
-- Clean and beginner-friendly backend structure
+- Beginner-friendly backend structure
 
 ---
 
-##  Tech Stack
+## Tech Stack
 - Node.js
 - Express.js
 - MongoDB
@@ -23,9 +23,9 @@ This project focuses on creating a secure **user signup API** with password hash
 
 ---
 
-## ⚙️ Installation & Run
+## Installation & Run
 ```bash
-git clone https://github.com/your-username/LoginUser
+git clone https://github.com/SmitRMagar2002/LoginUser.git
 cd LoginUser
 npm install
 npm start
